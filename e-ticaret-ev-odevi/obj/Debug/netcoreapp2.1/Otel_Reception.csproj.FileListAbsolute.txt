@@ -1,0 +1,11 @@
+C:\Users\Arthur_x\source\repos\ConsoleApp1\Otel_Reception\bin\Debug\netcoreapp2.1\Otel_Reception.deps.json
+C:\Users\Arthur_x\source\repos\ConsoleApp1\Otel_Reception\bin\Debug\netcoreapp2.1\Otel_Reception.runtimeconfig.json
+C:\Users\Arthur_x\source\repos\ConsoleApp1\Otel_Reception\bin\Debug\netcoreapp2.1\Otel_Reception.runtimeconfig.dev.json
+C:\Users\Arthur_x\source\repos\ConsoleApp1\Otel_Reception\bin\Debug\netcoreapp2.1\Otel_Reception.dll
+C:\Users\Arthur_x\source\repos\ConsoleApp1\Otel_Reception\bin\Debug\netcoreapp2.1\Otel_Reception.pdb
+C:\Users\Arthur_x\source\repos\ConsoleApp1\Otel_Reception\obj\Debug\netcoreapp2.1\Otel_Reception.csproj.CoreCompileInputs.cache
+C:\Users\Arthur_x\source\repos\ConsoleApp1\Otel_Reception\obj\Debug\netcoreapp2.1\Otel_Reception.AssemblyInfoInputs.cache
+C:\Users\Arthur_x\source\repos\ConsoleApp1\Otel_Reception\obj\Debug\netcoreapp2.1\Otel_Reception.AssemblyInfo.cs
+C:\Users\Arthur_x\source\repos\ConsoleApp1\Otel_Reception\obj\Debug\netcoreapp2.1\Otel_Reception.dll
+C:\Users\Arthur_x\source\repos\ConsoleApp1\Otel_Reception\obj\Debug\netcoreapp2.1\Otel_Reception.pdb
+C:\Users\Arthur_x\source\repos\ConsoleApp1\Otel_Reception\obj\Debug\netcoreapp2.1\Otel_Reception.csprojAssemblyReference.cache
